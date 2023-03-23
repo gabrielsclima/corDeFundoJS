@@ -1,0 +1,10 @@
+#fundo{
+    background-color: bisque;
+    color: rgb(69, 4, 4);
+}
+
+#imagemFundo{
+    width: 300px;
+    margin: auto;
+    height: auto;
+}
